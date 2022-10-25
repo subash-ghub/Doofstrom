@@ -20,4 +20,7 @@ The model was made only with help of Nicholas Renotte tutorial.
 https://user-images.githubusercontent.com/104593776/197756920-9334f50b-a573-4764-bf5c-b306e498337a.mp4
 
           
+## FOR_MORE:
+[SHC05005 - Tune_Arc..pdf](https://github.com/subash2406203/Doofstrom/files/9859699/SHC05005.-.Tune_Arc.pdf)
+
 
